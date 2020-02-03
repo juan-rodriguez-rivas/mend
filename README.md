@@ -10,7 +10,7 @@ MEND uses the following software:
 The following instructions are given for its installation in Ubuntu. The installation in any linux distribution should be very similar, with the use of a different package manager.
 
 MEND requires python3 and a fortran compiler:
-> sudo apt-get install perl python3 gfortran
+> sudo apt-get install python3 gfortran
 
 The following python packages are needed
 > pip install bio numpy
